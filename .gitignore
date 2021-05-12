@@ -106,6 +106,8 @@ ID
 
 *.orig
 *~
+*.log
+
 \#*#
 
 #
@@ -125,3 +127,4 @@ all.config
 
 # fetched Android config fragments
 kernel/configs/android-*.cfg
+
